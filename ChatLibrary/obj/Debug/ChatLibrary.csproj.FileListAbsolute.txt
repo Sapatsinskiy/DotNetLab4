@@ -1,0 +1,39 @@
+C:\Users\Dima\RiderProjects\Chat\ChatLibrary\bin\Debug\ChatLibrary.dll
+C:\Users\Dima\RiderProjects\Chat\ChatLibrary\bin\Debug\ChatLibrary.pdb
+C:\Users\Dima\RiderProjects\Chat\ChatLibrary\bin\Debug\System.ServiceModel.Duplex.dll
+C:\Users\Dima\RiderProjects\Chat\ChatLibrary\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Dima\RiderProjects\Chat\ChatLibrary\bin\Debug\System.ServiceModel.Security.dll
+C:\Users\Dima\RiderProjects\Chat\ChatLibrary\bin\Debug\System.ServiceModel.Duplex.pdb
+C:\Users\Dima\RiderProjects\Chat\ChatLibrary\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\Dima\RiderProjects\Chat\ChatLibrary\bin\Debug\System.ServiceModel.Security.pdb
+C:\Users\Dima\RiderProjects\Chat\ChatLibrary\obj\Debug\ChatLibrary.csproj.AssemblyReference.cache
+C:\Users\Dima\RiderProjects\Chat\ChatLibrary\obj\Debug\ChatLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dima\RiderProjects\Chat\ChatLibrary\obj\Debug\ChatLibr.787B135D.Up2Date
+C:\Users\Dima\RiderProjects\Chat\ChatLibrary\obj\Debug\ChatLibrary.dll
+C:\Users\Dima\RiderProjects\Chat\ChatLibrary\obj\Debug\ChatLibrary.pdb
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatLibrary\bin\Debug\ChatLibrary.dll
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatLibrary\bin\Debug\ChatLibrary.pdb
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatLibrary\bin\Debug\System.ServiceModel.Duplex.dll
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatLibrary\bin\Debug\System.ServiceModel.Primitives.dll
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatLibrary\bin\Debug\System.ServiceModel.Security.dll
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatLibrary\bin\Debug\System.ServiceModel.Duplex.pdb
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatLibrary\bin\Debug\System.ServiceModel.Primitives.pdb
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatLibrary\bin\Debug\System.ServiceModel.Security.pdb
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatLibrary\obj\Debug\ChatLibrary.csproj.AssemblyReference.cache
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatLibrary\obj\Debug\ChatLibrary.csproj.CoreCompileInputs.cache
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatLibrary\obj\Debug\ChatLibr.787B135D.Up2Date
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatLibrary\obj\Debug\ChatLibrary.dll
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatLibrary\obj\Debug\ChatLibrary.pdb
+C:\Users\Sapat\source\repos\DotNetLab4\ChatLibrary\bin\Debug\ChatLibrary.dll
+C:\Users\Sapat\source\repos\DotNetLab4\ChatLibrary\bin\Debug\ChatLibrary.pdb
+C:\Users\Sapat\source\repos\DotNetLab4\ChatLibrary\bin\Debug\System.ServiceModel.Duplex.dll
+C:\Users\Sapat\source\repos\DotNetLab4\ChatLibrary\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Sapat\source\repos\DotNetLab4\ChatLibrary\bin\Debug\System.ServiceModel.Security.dll
+C:\Users\Sapat\source\repos\DotNetLab4\ChatLibrary\bin\Debug\System.ServiceModel.Duplex.pdb
+C:\Users\Sapat\source\repos\DotNetLab4\ChatLibrary\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\Sapat\source\repos\DotNetLab4\ChatLibrary\bin\Debug\System.ServiceModel.Security.pdb
+C:\Users\Sapat\source\repos\DotNetLab4\ChatLibrary\obj\Debug\ChatLibrary.csproj.AssemblyReference.cache
+C:\Users\Sapat\source\repos\DotNetLab4\ChatLibrary\obj\Debug\ChatLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Sapat\source\repos\DotNetLab4\ChatLibrary\obj\Debug\ChatLibr.787B135D.Up2Date
+C:\Users\Sapat\source\repos\DotNetLab4\ChatLibrary\obj\Debug\ChatLibrary.dll
+C:\Users\Sapat\source\repos\DotNetLab4\ChatLibrary\obj\Debug\ChatLibrary.pdb

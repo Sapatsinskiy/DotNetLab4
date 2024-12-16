@@ -1,0 +1,57 @@
+C:\Users\Dima\RiderProjects\Chat\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\Dima\RiderProjects\Chat\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\Dima\RiderProjects\Chat\ChatServer\bin\Debug\ChatLibrary.dll
+C:\Users\Dima\RiderProjects\Chat\ChatServer\bin\Debug\System.ServiceModel.Duplex.dll
+C:\Users\Dima\RiderProjects\Chat\ChatServer\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\Dima\RiderProjects\Chat\ChatServer\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\Dima\RiderProjects\Chat\ChatServer\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Dima\RiderProjects\Chat\ChatServer\bin\Debug\System.ServiceModel.Security.dll
+C:\Users\Dima\RiderProjects\Chat\ChatServer\bin\Debug\ChatLibrary.pdb
+C:\Users\Dima\RiderProjects\Chat\ChatServer\bin\Debug\System.ServiceModel.Duplex.pdb
+C:\Users\Dima\RiderProjects\Chat\ChatServer\bin\Debug\System.ServiceModel.Http.pdb
+C:\Users\Dima\RiderProjects\Chat\ChatServer\bin\Debug\System.ServiceModel.NetTcp.pdb
+C:\Users\Dima\RiderProjects\Chat\ChatServer\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\Dima\RiderProjects\Chat\ChatServer\bin\Debug\System.ServiceModel.Security.pdb
+C:\Users\Dima\RiderProjects\Chat\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+C:\Users\Dima\RiderProjects\Chat\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Dima\RiderProjects\Chat\ChatServer\obj\Debug\ChatServer.csproj.Up2Date
+C:\Users\Dima\RiderProjects\Chat\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\Dima\RiderProjects\Chat\ChatServer\obj\Debug\ChatServer.pdb
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatServer\bin\Debug\ChatServer.exe
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatServer\bin\Debug\ChatServer.pdb
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatServer\bin\Debug\ChatLibrary.dll
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatServer\bin\Debug\System.ServiceModel.Duplex.dll
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatServer\bin\Debug\System.ServiceModel.Http.dll
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatServer\bin\Debug\System.ServiceModel.NetTcp.dll
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatServer\bin\Debug\System.ServiceModel.Primitives.dll
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatServer\bin\Debug\System.ServiceModel.Security.dll
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatServer\bin\Debug\ChatLibrary.pdb
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatServer\bin\Debug\System.ServiceModel.Duplex.pdb
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatServer\bin\Debug\System.ServiceModel.Http.pdb
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatServer\bin\Debug\System.ServiceModel.NetTcp.pdb
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatServer\bin\Debug\System.ServiceModel.Primitives.pdb
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatServer\bin\Debug\System.ServiceModel.Security.pdb
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatServer\obj\Debug\ChatServer.csproj.Up2Date
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatServer\obj\Debug\ChatServer.exe
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\Sapat\source\repos\DotNetLab4\ChatServer\bin\Debug\ChatLibrary.dll
+C:\Users\Sapat\source\repos\DotNetLab4\ChatServer\bin\Debug\System.ServiceModel.Duplex.dll
+C:\Users\Sapat\source\repos\DotNetLab4\ChatServer\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\Sapat\source\repos\DotNetLab4\ChatServer\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\Sapat\source\repos\DotNetLab4\ChatServer\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Sapat\source\repos\DotNetLab4\ChatServer\bin\Debug\System.ServiceModel.Security.dll
+C:\Users\Sapat\source\repos\DotNetLab4\ChatServer\bin\Debug\ChatLibrary.pdb
+C:\Users\Sapat\source\repos\DotNetLab4\ChatServer\bin\Debug\System.ServiceModel.Duplex.pdb
+C:\Users\Sapat\source\repos\DotNetLab4\ChatServer\bin\Debug\System.ServiceModel.Http.pdb
+C:\Users\Sapat\source\repos\DotNetLab4\ChatServer\bin\Debug\System.ServiceModel.NetTcp.pdb
+C:\Users\Sapat\source\repos\DotNetLab4\ChatServer\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\Sapat\source\repos\DotNetLab4\ChatServer\bin\Debug\System.ServiceModel.Security.pdb
+C:\Users\Sapat\source\repos\DotNetLab4\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+C:\Users\Sapat\source\repos\DotNetLab4\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Sapat\source\repos\DotNetLab4\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\Sapat\source\repos\DotNetLab4\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\Sapat\source\repos\DotNetLab4\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\Sapat\source\repos\DotNetLab4\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\Sapat\source\repos\DotNetLab4\ChatServer\obj\Debug\ChatServer.csproj.Up2Date

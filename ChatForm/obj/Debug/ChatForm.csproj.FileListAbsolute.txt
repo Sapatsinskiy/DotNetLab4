@@ -1,0 +1,45 @@
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatForm\obj\Debug\ChatForm.csproj.AssemblyReference.cache
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatForm\obj\Debug\ChatForm.Form1.resources
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatForm\obj\Debug\ChatForm.Properties.Resources.resources
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatForm\obj\Debug\ChatForm.csproj.GenerateResource.cache
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatForm\obj\Debug\ChatForm.csproj.CoreCompileInputs.cache
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatForm\bin\Debug\ChatForm.exe.config
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatForm\bin\Debug\ChatForm.exe
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatForm\bin\Debug\ChatForm.pdb
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatForm\bin\Debug\ChatLibrary.dll
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatForm\bin\Debug\ChatServer.exe
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatForm\bin\Debug\ChatLibrary.pdb
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatForm\bin\Debug\ChatServer.pdb
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatForm\obj\Debug\ChatForm.csproj.Up2Date
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatForm\obj\Debug\ChatForm.exe
+D:\My works\Робота\Євгеній\c#\dotNetLab4\Chat\ChatForm\obj\Debug\ChatForm.pdb
+D:\My works\Політех\c#\lab4\DotNetLab4\ChatForm\bin\Debug\ChatForm.exe.config
+D:\My works\Політех\c#\lab4\DotNetLab4\ChatForm\bin\Debug\ChatForm.exe
+D:\My works\Політех\c#\lab4\DotNetLab4\ChatForm\bin\Debug\ChatForm.pdb
+D:\My works\Політех\c#\lab4\DotNetLab4\ChatForm\bin\Debug\ChatLibrary.dll
+D:\My works\Політех\c#\lab4\DotNetLab4\ChatForm\bin\Debug\ChatServer.exe
+D:\My works\Політех\c#\lab4\DotNetLab4\ChatForm\bin\Debug\ChatLibrary.pdb
+D:\My works\Політех\c#\lab4\DotNetLab4\ChatForm\bin\Debug\ChatServer.pdb
+D:\My works\Політех\c#\lab4\DotNetLab4\ChatForm\obj\Debug\ChatForm.csproj.AssemblyReference.cache
+D:\My works\Політех\c#\lab4\DotNetLab4\ChatForm\obj\Debug\ChatForm.Form1.resources
+D:\My works\Політех\c#\lab4\DotNetLab4\ChatForm\obj\Debug\ChatForm.Properties.Resources.resources
+D:\My works\Політех\c#\lab4\DotNetLab4\ChatForm\obj\Debug\ChatForm.csproj.GenerateResource.cache
+D:\My works\Політех\c#\lab4\DotNetLab4\ChatForm\obj\Debug\ChatForm.csproj.CoreCompileInputs.cache
+D:\My works\Політех\c#\lab4\DotNetLab4\ChatForm\obj\Debug\ChatForm.csproj.Up2Date
+D:\My works\Політех\c#\lab4\DotNetLab4\ChatForm\obj\Debug\ChatForm.exe
+D:\My works\Політех\c#\lab4\DotNetLab4\ChatForm\obj\Debug\ChatForm.pdb
+C:\Users\Sapat\source\repos\DotNetLab4\ChatForm\bin\Debug\ChatForm.exe.config
+C:\Users\Sapat\source\repos\DotNetLab4\ChatForm\bin\Debug\ChatForm.exe
+C:\Users\Sapat\source\repos\DotNetLab4\ChatForm\bin\Debug\ChatForm.pdb
+C:\Users\Sapat\source\repos\DotNetLab4\ChatForm\bin\Debug\ChatLibrary.dll
+C:\Users\Sapat\source\repos\DotNetLab4\ChatForm\bin\Debug\ChatServer.exe
+C:\Users\Sapat\source\repos\DotNetLab4\ChatForm\bin\Debug\ChatLibrary.pdb
+C:\Users\Sapat\source\repos\DotNetLab4\ChatForm\bin\Debug\ChatServer.pdb
+C:\Users\Sapat\source\repos\DotNetLab4\ChatForm\obj\Debug\ChatForm.csproj.AssemblyReference.cache
+C:\Users\Sapat\source\repos\DotNetLab4\ChatForm\obj\Debug\ChatForm.Form1.resources
+C:\Users\Sapat\source\repos\DotNetLab4\ChatForm\obj\Debug\ChatForm.Properties.Resources.resources
+C:\Users\Sapat\source\repos\DotNetLab4\ChatForm\obj\Debug\ChatForm.csproj.GenerateResource.cache
+C:\Users\Sapat\source\repos\DotNetLab4\ChatForm\obj\Debug\ChatForm.csproj.CoreCompileInputs.cache
+C:\Users\Sapat\source\repos\DotNetLab4\ChatForm\obj\Debug\ChatForm.csproj.Up2Date
+C:\Users\Sapat\source\repos\DotNetLab4\ChatForm\obj\Debug\ChatForm.exe
+C:\Users\Sapat\source\repos\DotNetLab4\ChatForm\obj\Debug\ChatForm.pdb
